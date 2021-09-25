@@ -1,34 +1,34 @@
 {
-    "vins":[
+    "wines":[
     {
-        "nom": "Clos Maria",
-        "productor": "Clos Maria",
+        "name": "Clos Maria",
+        "producer": "Clos Maria",
 	"do": "Montsant",
-	"tipus": "Negre",
-      	"anyada": "2016",
-        "varietats": "Garnatxa i merlot",
-        "preu": "20",
-         "web": "https://www.closmaria.com/"
+	"type": "Negre",
+      	"year": "2016",
+        "varieties": "Garnatxa and merlot",
+        "price": "20",
+         "website": "https://www.closmaria.com/"
     },
     {
-        "nom": "Brau de Bot",
-        "productor": "Vins Sant Josep",
+        "name": "Brau de Bot",
+        "producer": "Vins Sant Josep",
       	"do": "Terra Alta",
-      	"tipus": "Negre",
-	"anyada": "2018",
-        "varietats": "Tempranillo i merlot",
-        "preu": "7",
-         "web": "https://santjosepwines.com/"
+      	"type": "Negre",
+	"year": "2018",
+        "varieties": "Tempranillo and merlot",
+        "price": "7",
+         "website": "https://santjosepwines.com/"
     },
     {
-        "nom": "Onix Classic",
-        "productor": "Vinicola del Priorat",
+        "name": "Onix Classic",
+        "producer": "Vinicola del Priorat",
 	"do": "Priorat",
-	"tipus": "Negre",
-	"anyada": "2019",
-        "varietats": "Mazuelo i garnatxa",
-        "preu": "10",
-         "web": "https://www.vinicoladelpriorat.com/"
+	"type": "Negre",
+	"year": "2019",
+        "varieties": "Mazuelo i garnatxa",
+        "price": "10",
+         "website": "https://www.vinicoladelpriorat.com/"
     }
     ]
 }
